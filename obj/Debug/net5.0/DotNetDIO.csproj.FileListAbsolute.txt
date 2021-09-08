@@ -1,0 +1,16 @@
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.exe
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.deps.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.runtimeconfig.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.runtimeconfig.dev.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\ref\DotNetDIO.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\bin\Debug\net5.0\DotNetDIO.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.csproj.AssemblyReference.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.AssemblyInfoInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.AssemblyInfo.cs
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\ref\DotNetDIO.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\DotNetDIO\obj\Debug\net5.0\DotNetDIO.genruntimeconfig.cache
